@@ -143,6 +143,7 @@ Each organization will have policies related to an incident response that should
   
   - [Incident Response Playbook (Docx)](https://github.com/boydjenkins18/Azure-SOC-Honeynet/blob/main/Incident%20Management%20Playbook%20for%20Azure%20SOC%20Project.docx)
 </details>
+
 ## Conclusion
 
 In this project, a mini honeynet was constructed in Microsoft Azure and log sources were integrated into a Log Analytics workspace. Microsoft Sentinel was employed to trigger alerts and create incidents based on the ingested logs. Additionally, metrics were measured in the insecure environment before security controls were applied, and then again after implementing security measures. It is noteworthy that the number of security events and incidents were drastically reduced after the security controls were applied, demonstrating their effectiveness.
