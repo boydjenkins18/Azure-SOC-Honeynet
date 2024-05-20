@@ -140,8 +140,8 @@ Each organization will have policies related to an incident response that should
 
 <details>
   <summary>Incident Management Playbook for this Project</summary>
-  https://github.com/boydjenkins18/Azure-SOC-Honeynet/blob/main/Incident%20Management%20Playbook%20for%20Azure%20SOC%20Project.docx
   
+  - [Incident Response Playbook (Docx)](https://github.com/boydjenkins18/Azure-SOC-Honeynet/blob/main/Incident%20Management%20Playbook%20for%20Azure%20SOC%20Project.docx)
 </details>
 ## Conclusion
 
